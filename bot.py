@@ -5,9 +5,9 @@ import requests
 import json
 import csv
 
-os.environ['NUTRITIONIX_API_KEY']='6b3da162'
-os.environ['NUTRITIONIX_APP_ID']='1b38c299877e428ac6f777b2312f20e5'
-os.environ['http_api']='5067306912:AAG1xmIce4qvSBmGgYJe7RddqZx9dhAj9tw'
+os.environ['NUTRITIONIX_API_KEY']
+os.environ['NUTRITIONIX_APP_ID']
+os.environ['http_api']
 NUTRITIONIX_API_KEY = environ['NUTRITIONIX_API_KEY']
 NUTRITIONIX_APP_ID = environ['NUTRITIONIX_APP_ID']
 HTTP_API = environ['http_api']
